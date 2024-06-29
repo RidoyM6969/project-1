@@ -1,3 +1,4 @@
+import About from "./components/About"
 import Banner from "./components/Banner"
 import Menu from "./components/Menu"
 
@@ -8,6 +9,7 @@ function App() {
     <>
     <Menu/>
     <Banner/>
+    <About/>
     </>
   )
 }
